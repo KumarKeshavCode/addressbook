@@ -1,3 +1,9 @@
 export class User{
-    fullName:String;
-}
+   constructor(){
+    this.name = "";
+    this.address = "";
+    this.age = "";
+    this.number = "";
+    this.state = "";
+   }
+};

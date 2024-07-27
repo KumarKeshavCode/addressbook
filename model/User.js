@@ -1,3 +1,4 @@
+
 export class User{
    constructor(){
     this.name = "";
@@ -5,5 +6,6 @@ export class User{
     this.age = "";
     this.number = "";
     this.state = "";
+    this.id = "";
    }
 };
